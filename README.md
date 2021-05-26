@@ -1,2 +1,2 @@
 # PowerBI
-In This Repository I shared my Sample power Bi file 
+In This Repository I shared my Sample power Bi files
