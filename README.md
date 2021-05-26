@@ -1,2 +1,2 @@
 # PowerBI
-Sample power bi file
+Sample power Bi file
